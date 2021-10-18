@@ -1,0 +1,35 @@
+{
+   "name":"Svetlana ",
+   "lastname":"Liguzova",
+   "country":"US",
+   "state":"TX",
+   "city":"Dallas",
+   "isworking":true,
+   "companyname":"OSK 1520 LLC, Moscow",
+   "skills":[
+      {
+         "skill":"HTML"
+      },
+      {
+         "skill":"CSS"
+      },
+      {
+         "skill":"JS"
+      },
+      {
+         "skill":"SQL"
+      }
+   ],
+   "anycourses":[
+      "The Complete JavaScript Course by Udemy",
+      null
+   ],
+   "whyautomation":[
+      {
+         "answerautomation":"improving IT-skills"
+      },
+      {
+         "answerautomation":"development as a specialist test automation"
+      }
+   ]
+}

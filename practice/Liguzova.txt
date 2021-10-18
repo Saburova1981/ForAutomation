@@ -1,0 +1,37 @@
+1. Svetlana Liguzova
+2. US, Dallas
+3. Yes, remote
+4. OSK 1520 LLC, Moscow
+5. SQL, HTML, CSS, basic of JS, 15 years ago I worked as Software Engeneer (Visual FoxPro)
+6. The Complete JavaScript Course by Udemy
+7. improving IT-skills, development as a specialist test automation
+
+First and last name
+Country and city
+Is working?
+Company name
+Skills 
+Is attending any courses now?
+Why automation?
+
+JSON
+
+
+{
+"name": "Svetlana ",
+"lastname": "Liguzova",
+"country": "US",
+"state": "TX",
+"city": "Dallas",
+"isworking": true,
+"companyname": "OSK 1520 LLC, Moscow",
+"skills": [
+{skill: "HTML"},
+{skill: "CSS"},
+{skill: "JS"},
+{skill: "SQL"}
+],
+"anycourses": "The Complete JavaScript Course by Udemy",
+"whyautomation": "improving IT-skills, development as a specialist test automation"
+
+}
