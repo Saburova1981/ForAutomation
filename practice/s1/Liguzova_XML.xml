@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+   <student>
+      <first_name>Svetlana</first_name>
+      <last_name>Liguzova</last_name>
+      <hobby>
+         <sub_hobby>Painting</sub_hobby>
+         <sub_hobby>Fitness</sub_hobby>
+      </hobby>
+      <fav_movie>Sen to Chihiro no kamikakushi</fav_movie>
+      <fav_band>Rammstein</fav_band>
+   </student>
+   <student>
+      <first_name>Sergei</first_name>
+      <last_name>Liguzov</last_name>
+      <hobby>
+         <sub_hobby>Fishing</sub_hobby>
+         <sub_hobby>Fitness</sub_hobby>
+      </hobby>
+      <fav_movie>Game of Thrones</fav_movie>
+      <fav_band>Rammstein</fav_band>
+   </student>
+</students>
